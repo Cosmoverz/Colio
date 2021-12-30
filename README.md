@@ -2,7 +2,7 @@
 <hr />
 <h1>Description</h1>
 <h2>Story</h4>
-<p>This was a previously a very dusty, old website, but with the help of my new knowledge, I started to clean the dust and make it into a shiny, new website.</p>
+<p>This was previously a very dusty, old website, but with the help of my new knowledge, I started to clean the dust and make it into a shiny, new website.</p>
 <br>
 <h2>Info</h2>
 <p>I have got the important text popup better, with text shadow and eye-catching colors. The images are responsive so, they don't make everything clogged up, like how it happend for me for the last few times... I have also used bootstrap for some cases, such as cards, badges and more! For the last, I have got a cool, color changing background for the footer with transitions from yellow to green to blue to pink and finally to peach.</p>
