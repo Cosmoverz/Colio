@@ -1,8 +1,10 @@
-<img src="./img/Colio.png" alt="Colio" />
+<img src="./img/Colio.png" alt="Colio Banner" />
 <hr />
-<h1>Description</h1>
-<h2>Story</h4>
-<p>This was previously a very dusty, old website, but with the help of my new knowledge, I started to clean the dust and make it into a shiny, new website.</p>
+<h1 align="center">Description</h1>
+<h2>Preview</h2>
+<img src="./img/preview.png" alt="Project Preview" />
+<h2>Story</h2>
+<p>I started to build this website in 2021, but I really didn't put much attention to it. Later that year, I thought of rebuilding this old website, into a better website with all the new knowledge that I learnt. From there, I started to change the color, layout, animations, transitions, and much. After that I thought to create light and dark background that adjusts to the system's preference, so if you prefer dark mode then the website will load dark mode for you, it also works the other way around. Just to create the website your are currently going to look at.</p>
 <br>
 <h2>Info</h2>
 <p>I have got the important text popup better, with text shadow and eye-catching colors. The images are responsive so, they don't make everything clogged up, like how it happend for me for the last few times... I have also used bootstrap for some cases, such as cards, badges and more! For the last, I have got a cool, color changing background for the footer with transitions from yellow to green to blue to pink and finally to peach.</p>
@@ -41,7 +43,9 @@
 <h2>Credits</h2>
 <ul>
     <li><a href="https://www.getbootstrap.com/">Bootstrap</a></li>
-    <li><a href="https://www.flaticon.com/uicons">Flaticon Uicons</a></li>
+    <li><a href="https://www.flaticon.com/">Flaticon</a></li>
+    <li><a href="https://ionic.io/ionicons">Ionicons</a></li>
     <li><a href="https://fonts.google.com/">Google Fonts</a></li>
-    <li><a href="https://codepen.io/SusCasasola/pen/mLREVP">404 Page</a></li>
+    <li><a href="https://codepen.io/rafaelavlucas/pen/NWWQNjZ">404 Page</a></li>
+    <li><a href="https://codepen.io/rafaelavlucas/pen/JjPGNdq">Navbar</a></li>
 </ul>
